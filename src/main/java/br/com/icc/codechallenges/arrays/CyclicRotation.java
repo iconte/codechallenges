@@ -1,4 +1,4 @@
-package br.com.icc.codechallenges;
+package br.com.icc.codechallenges.arrays;
 
 import java.util.Arrays;
 
