@@ -1,7 +1,5 @@
 package br.com.icc.codechallenges.easy;
 
-import java.util.List;
-
 public class SecondLargest {
 
 	public static void main(String[] args) {
