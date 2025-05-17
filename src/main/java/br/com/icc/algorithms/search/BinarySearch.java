@@ -1,4 +1,4 @@
-package br.com.icc.algorithms;
+package br.com.icc.algorithms.search;
 
 /**
  * Iterative BinarySearch
